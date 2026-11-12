@@ -44,7 +44,7 @@ subscribers:
       #   method: POST
 
     filters:
-      regions: [US]                            # empty [] = all regions
+      regions: []                            # empty [] = all regions
       retailers: [pokemoncenter]               # empty = all
       kinds: [queue, restock, preorder]        # skip 'deal' and 'news'
       keywords:                                # ANY of these must appear in the title
