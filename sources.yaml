@@ -112,7 +112,7 @@ sources:
       url: "https://www.pokemoncenter.com/"
       # Confidence gate. Lower = more probes; higher = fewer probes but
       # some drops missed.
-      gate_min_sources: 1        # at least this many derivative sources
+      gate_min_sources: 0        # at least this many derivative sources
       gate_window_minutes: 20    # ...must have fired within this window
       # Profiles supported by curl_cffi 0.7.x (what our
       # requirements-queueit.txt pins). If you bump to 0.8+ you can add
