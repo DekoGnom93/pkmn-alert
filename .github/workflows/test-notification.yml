@@ -1,1 +1,19 @@
 
+
+name: Test ntfy notification
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send test notification
+        run: |
+          curl --fail --show-error \
+            -H "Title: Pokémon Alert – TEST" \
+            -H "Priority: high" \
+            -H "Tags: white_check_mark" \
+            -d "Test erfolgreich! Dein Pokémon Alert kann Push-Nachrichten senden." \
+            https://ntfy.sh/pkmnalertDekoGnom93
