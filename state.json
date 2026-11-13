@@ -2,7 +2,9 @@
   "alerted_drops": {
     "target:preorder": "2026-11-13T10:43:09.130731+00:00"
   },
-  "cooldowns": {},
+  "cooldowns": {
+    "queueit": "2026-11-13T13:07:09.070287+00:00"
+  },
   "pending_reminders": [],
   "probe_burst_until": "",
   "recent_confirmations": {},
