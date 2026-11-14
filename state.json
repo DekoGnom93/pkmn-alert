@@ -1,13 +1,9 @@
 {
   "alerted_drops": {
     "gamestop:news": "2026-11-14T20:17:24.431757+00:00",
-    "gamestop:preorder": "2026-11-14T19:00:36.675066+00:00",
-    "target:news": "2026-11-14T19:00:36.675066+00:00",
     "unknown:news": "2026-11-14T20:17:24.431757+00:00"
   },
-  "cooldowns": {
-    "queueit": "2026-11-14T21:27:18.016687+00:00"
-  },
+  "cooldowns": {},
   "pending_reminders": [],
   "probe_burst_until": "",
   "recent_confirmations": {},
