@@ -3,9 +3,7 @@
     "pokemoncenter:news": "2026-11-15T19:54:20.795864+00:00",
     "unknown:news": "2026-11-15T20:29:07.991771+00:00"
   },
-  "cooldowns": {
-    "queueit": "2026-11-15T21:42:20.142072+00:00"
-  },
+  "cooldowns": {},
   "pending_reminders": [],
   "probe_burst_until": "",
   "recent_confirmations": {},
