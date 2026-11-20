@@ -1,6 +1,8 @@
 {
   "alerted_drops": {},
-  "cooldowns": {},
+  "cooldowns": {
+    "queueit": "2026-11-20T01:02:06.161677+00:00"
+  },
   "pending_reminders": [],
   "probe_burst_until": "",
   "recent_confirmations": {},
